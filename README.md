@@ -3,7 +3,8 @@
 This repository contains solutions for practical tasks.
 
 
-| Module   | Solution PR Link | 
-|----------|:----------------:|
-| IAM      |    click here    | 
+| Module |                          Solution Link                          |
+| ------ | :-------------------------------------------------------------: |
+| IAM    | [click me](https://github.com/iamSujoy/aws-qa-associate/pull/1) |
+
 
